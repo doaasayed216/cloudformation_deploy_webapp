@@ -1,0 +1,22 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "UdacityProject"
+    },
+    {
+        "ParameterKey": "RolePolicy",
+        "ParameterValue": "arn:aws:iam::aws:policy/AmazonS3FullAccess"
+    },
+    {
+        "ParameterKey": "AmiId",
+        "ParameterValue": "ami-0ee23bfc74a881de5"
+    },
+    {
+        "ParameterKey": "InstanceType",
+        "ParameterValue": "t2.medium"
+    },
+    {
+        "ParameterKey": "BucketName",
+        "ParameterValue": "udagram190364539214"
+    }
+]
